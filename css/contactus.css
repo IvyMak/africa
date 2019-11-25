@@ -1,0 +1,69 @@
+body{
+  background-image:url(https://scx1.b-cdn.net/csz/news/800/2019/giraffes.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: white;
+  background-position: center center;
+}
+#contactus{
+  width: 600px;
+  background:#6495ed;
+  opacity: 0.8;
+  padding: 30px;
+  color: black;
+  font-family: sans-serif;
+  border-radius:3px;
+  display:block;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: 95px;
+}
+
+#contactus h1{
+  margin: 0;
+  font-size:40px;
+  margin-bottom: 20px;
+  font-weight: initial;
+  color:white;
+}
+
+#textbox{
+  background: #f4f4ef;
+  border: 1px solid #cea616;
+  font-size: 20px;
+  font-family: sans-serif;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  color:black;
+  display:flex;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+#contactus a{
+  font-size:18px;
+  font-family:sans-serif;
+  color:white;
+}
+
+textarea {
+  height:150px;
+  width:100%;
+  padding:8px;
+  border: 1px solid #cea616;
+  font-size: 20px;
+  font-family: sans-serif;
+  border-radius: 6px;
+}
+
+.btn {
+  font-size: 18px;
+  width: 50%;
+  margin: 15px 0px;
+  color: white;
+  padding: 4px;
+}

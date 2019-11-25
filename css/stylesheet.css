@@ -1,0 +1,80 @@
+body{
+  font-family: cursive;
+  color: white;
+}
+
+.jumbotron{
+  border-radius: 0;
+}
+
+h1{
+  font-style: italic;
+  font-family: Papyrus;
+  font-size: 100px;
+  color: black;
+  font-weight:bold;
+}
+p1{
+  font-size: 80px;
+  padding: 0;
+  font-family:Papyrus
+  font-weight:bold;
+}
+
+nav{
+  margin-bottom: 40px
+}
+ul {
+  margin: 0px;
+  padding:0px;
+  list-style: none;
+}
+
+h5{
+  font-family: cursive;
+  font-size:25px;
+}
+
+p2{
+  font-family: cursive;
+  font-size:17px;
+}
+
+a.nav-link {
+  width: 150px;
+  height: 40px;
+  line-height:30px;
+  text-align: center;
+  font-size: 20px;
+  margin-right: 10px;
+  font-family: cursive;
+}
+
+
+
+ul li a:hover{
+  background-color: black;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 20px;
+  width: 50px;
+  text-align:center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin: 5px 5px;
+  margin-top: 80px;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
