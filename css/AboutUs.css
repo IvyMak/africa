@@ -1,3 +1,10 @@
+body{
+  background-image: url(../images/jpg.victoriafalls.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+}
 
 h1 {
   font-style: italic;
